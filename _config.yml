@@ -1,14 +1,29 @@
+name: '43102'
+favicon: null
 layout_spectrum: 0.8604128
 typography_spectrum: 0.7667241
+title: The Grid member 43102
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.07504719
-  lightness: 0.9970914
-  brandStrength: 0.3040327
-  rhythmicContrast: 0.3904555
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-name: '43102'
+  brandStrength: 0.3040327
+  lightness: 0.9970914
+  saturation: 0.07504719
+  rhythmicContrast: 0.3904555
+purpose: []
