@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ADFS 3.0 and WAP (Formerly ADFS Proxy) are super powerful and really should not be so darn difficult to debug.
-datePublished: '2016-05-01T20:45:44.629Z'
-dateModified: '2016-05-01T20:44:55.143Z'
+datePublished: '2016-05-01T21:03:08.412Z'
+dateModified: '2016-05-01T20:47:12.634Z'
 title: ''
 author:
   - name: ''
