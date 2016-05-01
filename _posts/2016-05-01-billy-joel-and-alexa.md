@@ -5,12 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "I've been working on an integration project with CRM, Project Management, Financial, Inventory, and Service data."
-datePublished: '2016-05-01T21:02:21.455Z'
-dateModified: '2016-05-01T21:00:23.307Z'
-title: Billy Joel and Alexa
+datePublished: '2016-05-01T21:03:00.303Z'
+dateModified: '2016-05-01T21:02:25.274Z'
+title: Systems Integrator at Work
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-05-01-billy-joel-and-alexa.md
+published: true
 authors: []
 publisher:
   name: null
@@ -18,8 +20,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-01-billy-joel-and-alexa.md
-published: true
 url: billy-joel-and-alexa/index.html
 _type: Article
 
