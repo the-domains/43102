@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[The Grid member 43102]]></title>
         <description><![CDATA[The Grid member 43102]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/43102/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 20:26:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 01 May 2016 20:34:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/43102/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ADFS Slays Me]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ab37bca-f0c2-4558-82ab-22910ce8207f.png" alt="" title="">]]></description>
-            <link>undefinedadfs-slays-me/index.html</link>
+            <link>https://thegrid.ai/43102/adfs-slays-me/index.html</link>
             <guid isPermaLink="false">0342cc6d-a815-490f-9ac2-8a8e2c32f844</guid>
-            <pubDate>Sun, 01 May 2016 20:26:11 GMT</pubDate>
+            <pubDate>Sun, 01 May 2016 20:34:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
